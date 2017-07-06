@@ -18,6 +18,8 @@ gem 'devise'
 gem 'twitter-bootstrap-rails'
 #Bootstrap for devise views
 gem 'devise-bootstrap-views'
+#Stripe for payments
+gem 'stripe'
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
